@@ -2,7 +2,7 @@
 %undefine _disable_source_fetch
 
 Name:           sensu-go
-Version:        6.2.7
+Version:        6.10.0
 Release:        1%{?dist}
 Summary:        A monitoring framework
 License:        MIT
