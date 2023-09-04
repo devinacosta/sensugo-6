@@ -145,6 +145,8 @@ exit 0
 
 
 %changelog
+* Mon Sep 04 2023 Devin ACosta <devin@pabstatencio.com> - 1.00.0-11
+- Upgraded to Sensu 6.10.0
 * Sun May 09 2021 Devin Acosta <devin@linuxstack.cloud> - 1.00.0-10
 - Upgraded to Sensu 5.21.5
 * Tue Sep 22 2020 Devin Acosta <devin@linuxstack.cloud> - 1.00.0-9
